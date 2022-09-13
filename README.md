@@ -7,8 +7,11 @@ The djnago website can then create/read/update/delete info in the database based
 Django Form:
 
 GET POST and CSRF
+
 Django form class
+
 Form Widgets and CSS styling 
+
 ModelForms
 
   
