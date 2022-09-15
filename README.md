@@ -11,7 +11,6 @@ Django Form:
 
 
 
-
 GET POST and CSRF
 
 Django form class
