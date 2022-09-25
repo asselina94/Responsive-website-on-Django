@@ -20,4 +20,3 @@ Form Widgets and CSS styling
 ModelForms
 
 
-  
